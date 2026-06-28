@@ -48,8 +48,7 @@
 - `vis_utils.py`：图像网格可视化工具
 - `distance_matrix_vis.py`：距离矩阵可视化脚本
 
-## 环境依赖
-```bash
+### 环境依赖
 pip install torch torchvision numpy matplotlib jupyter  
 
 ## 项目亮点  
